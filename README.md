@@ -1,1 +1,3 @@
 # VersiooniHaldus
+Nikita
+Martin
